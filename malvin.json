@@ -1,11 +1,11 @@
 
 {
-"bot-name": "MALVIN-XD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
-  "logo": "https://files.catbox.moe/juxfce.jpg",
+"bot-name": "N9UFS-XD",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ AGENT N9UF_S",
+  "logo": "https://files.catbox.moe/nabe2w.png",
   "keywords": ["bot"],
-  "documentation-link": "https://github.com/XdKing2/MALVIN-XD",
-    "owner-verification":"malvink003@gmail.com",
+  "documentation-link": "https://github.com/N9uf-S/N9UFS-XD",
+    "owner-verification":"kiyuly225@gmail.com",
   
     "env": {
       "SESSION_ID": {
@@ -18,13 +18,13 @@
     "OWNER_NUMBER": {
       "description": "Enter owner number",
       "required": true,
-      "value": "263714757857"
+      "value": "2250160098804"
       
        },
       "TIMEZONE": {
       "description": "Enter country timezone",
       "required": true,
-      "value": "Africa/Harare"
+      "value": "Africa/Abidjan"
 
     }  
   }
