@@ -1,7 +1,7 @@
 {
-  "name": "malvin-xd",
+  "name": "N9UFS-XD",
   "version": "2.1.1",
-  "description": "WhatsApp Bot by Malvin King",
+  "description": "WhatsApp Bot bY N9UF_S",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -18,7 +18,7 @@
   "keywords": [
     "whatsapp-bot", "star-xd","starxd"
   ],
-  "author": "Malvin King",
+  "author": "AGENT N9UF_S",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
